@@ -10,11 +10,11 @@
 
 ### Analysis of Outcomes Based on Launch Date
 #### A pivot table was used to summarize theater outcomes, based on launch dates.
-![Theater_Outcomes_vs_Launch.png](Theater_Outcomes_vs_Launch.png)
+![Theater_Outcomes_vs_Launch](https://user-images.githubusercontent.com/115426070/197050261-9d896a7f-bdd9-4d4a-be1a-ead6902e160d.png)
 
 ### Analysis of Outcomes Based on Goals
 #### CountIfs were used to determine the percentages of kickstarter outcomes, based on their fundraising goal amounts.
-![](Outcomes_vs_Goals.png)
+![Outcomes_vs_Goals](https://user-images.githubusercontent.com/115426070/197050194-638f7e37-c4da-4733-a42a-76aab5842858.png)
 
 ### Challenges and Difficulties Encountered
 #### One potential challenge was when the formulas returned zeros and I was concerned they were not calculating the data that I wanted.  I manually filtered the dataset to verify that the calculations were accurate.
