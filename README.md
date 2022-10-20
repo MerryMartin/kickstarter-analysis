@@ -1,21 +1,23 @@
 # Kickstarting with Excel
 
-## Overview of Project - Louise would like to optimize her future kickstarter campiagns.
+## **Overview of Project**
+## Louise is a playwright who just completed her first kickstarter campaign.  She would like to optimize her future kickstarter campiagns by mimicing the attributes of other successful campiagns in her field.  
 
 ### The purpose of this analysis is to help Louise understand how different launch dates and funding goals affect fundraising outcomes for plays
 
-## Analysis and Challenges - I evaluated how different campaigns fared in relation to their launch dates and funding goals by utilizing formulas, pivot tables, and charts.
+## Analysis and Challenges 
+## I evaluated how different campaigns fared in relation to their launch dates and funding goals by utilizing formulas, pivot tables, and charts.
 
 ### Analysis of Outcomes Based on Launch Date
-####A pivot table was used to summarize theater outcomes, based on launch dates.
-![](Theater_Outcomes_vs_Launch.png)
+#### A pivot table was used to summarize theater outcomes, based on launch dates.
+![Theater_Outcomes_vs_Launch.png](Theater_Outcomes_vs_Launch.png)
 
 ### Analysis of Outcomes Based on Goals
-####CountIfs were used to determine the percentages of kickstarter outcomes, based on their fundraising goal amounts.
+#### CountIfs were used to determine the percentages of kickstarter outcomes, based on their fundraising goal amounts.
 ![](Outcomes_vs_Goals.png)
 
 ### Challenges and Difficulties Encountered
-####One potential challenge was when the formulas returned zeros and I was concerned they were not calculating the data that I wanted.  I manually filtered the dataset to verify that the calculations were accurate.
+#### One potential challenge was when the formulas returned zeros and I was concerned they were not calculating the data that I wanted.  I manually filtered the dataset to verify that the calculations were accurate.
 
 ## Results
     Based on the data analysis, I can conclude that the most successful month to launch a kickstarter campaign is May and the least succesful month to launch a kickstarter campaign is December.  I can also conclude that campaigns with goals less than $4,999 have a pretty good chance of success - over 70%.  Since the highest percent of successful outcomes was for campaigns with fundraising goals of less than $1000, I would recommend that Louise keep her budget as close to that dollar amount as possible.  
