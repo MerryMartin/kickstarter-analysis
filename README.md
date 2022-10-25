@@ -1,7 +1,7 @@
 # Kickstarting with Excel
 
 ## **Overview of Project**
-## Louise is a playwright who just completed her first kickstarter campaign.  She would like to optimize her future kickstarter campiagns by mimicing the attributes of other successful campiagns in her field.  
+## Louise is a playwright who just completed her first kickstarter campaign.  She would like to optimize her future kickstarter campaigns by mimicing the attributes of other successful campaigns in her field.  
 
 ### The purpose of this analysis is to help Louise understand how different launch dates and funding goals affect fundraising outcomes for plays
 
